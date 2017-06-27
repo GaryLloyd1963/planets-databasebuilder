@@ -1,0 +1,17 @@
+C:\Training\DatabaseBuilder\DatabaseBuilder\bin\Debug\DatabaseBuilder.exe.config
+C:\Training\DatabaseBuilder\DatabaseBuilder\bin\Debug\DatabaseBuilder.exe
+C:\Training\DatabaseBuilder\DatabaseBuilder\bin\Debug\DatabaseBuilder.pdb
+C:\Training\DatabaseBuilder\DatabaseBuilder\obj\Debug\DatabaseBuilder.csprojResolveAssemblyReference.cache
+C:\Training\DatabaseBuilder\DatabaseBuilder\obj\Debug\DatabaseBuilder.exe
+C:\Training\DatabaseBuilder\DatabaseBuilder\obj\Debug\DatabaseBuilder.pdb
+C:\Training\DatabaseBuilder\DatabaseBuilder\bin\Debug\StructureMap.dll
+C:\Training\DatabaseBuilder\DatabaseBuilder\bin\Debug\StructureMap.xml
+C:\Training\DatabaseBuilder\DatabaseBuilder\bin\Debug\FluentMigrator.dll
+C:\Training\DatabaseBuilder\DatabaseBuilder\bin\Debug\FluentMigrator.Runner.dll
+C:\Training\DatabaseBuilder\DatabaseBuilder\bin\Debug\FluentMigrator.pdb
+C:\Training\DatabaseBuilder\DatabaseBuilder\bin\Debug\FluentMigrator.xml
+C:\Training\DatabaseBuilder\DatabaseBuilder\bin\Debug\FluentMigrator.Runner.pdb
+C:\Training\DatabaseBuilder\DatabaseBuilder\bin\Debug\AstroData.dll
+C:\Training\DatabaseBuilder\DatabaseBuilder\bin\Debug\AstroData.pdb
+C:\Training\DatabaseBuilder\DatabaseBuilder\bin\Debug\Dapper.dll
+C:\Training\DatabaseBuilder\DatabaseBuilder\bin\Debug\Dapper.xml

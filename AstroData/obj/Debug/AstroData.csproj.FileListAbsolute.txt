@@ -1,0 +1,10 @@
+C:\Training\DatabaseBuilder\AstroData\bin\Debug\AstroData.dll
+C:\Training\DatabaseBuilder\AstroData\bin\Debug\AstroData.pdb
+C:\Training\DatabaseBuilder\AstroData\obj\Debug\AstroData.dll
+C:\Training\DatabaseBuilder\AstroData\obj\Debug\AstroData.pdb
+C:\Training\DatabaseBuilder\AstroData\bin\Debug\FluentMigrator.dll
+C:\Training\DatabaseBuilder\AstroData\bin\Debug\FluentMigrator.pdb
+C:\Training\DatabaseBuilder\AstroData\bin\Debug\FluentMigrator.xml
+C:\Training\DatabaseBuilder\AstroData\obj\Debug\AstroData.csprojResolveAssemblyReference.cache
+C:\Training\DatabaseBuilder\AstroData\bin\Debug\Dapper.dll
+C:\Training\DatabaseBuilder\AstroData\bin\Debug\Dapper.xml
