@@ -49,7 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AstroDataAssembly.cs" />
-    <Compile Include="AstroDataHelper.cs" />
+    <Compile Include="Extensions\AstroDataExtensions.cs" />
     <Compile Include="Tables\Constants.cs" />
     <Compile Include="Tables\CreatePlanetTable.cs" />
     <Compile Include="Data\SeedPlanetData.cs" />

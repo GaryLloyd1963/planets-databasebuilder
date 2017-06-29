@@ -8,3 +8,13 @@ C:\Training\DatabaseBuilder\AstroData\bin\Debug\FluentMigrator.xml
 C:\Training\DatabaseBuilder\AstroData\obj\Debug\AstroData.csprojResolveAssemblyReference.cache
 C:\Training\DatabaseBuilder\AstroData\bin\Debug\Dapper.dll
 C:\Training\DatabaseBuilder\AstroData\bin\Debug\Dapper.xml
+C:\Training\planets-databasebuilder\AstroData\bin\Debug\AstroData.dll
+C:\Training\planets-databasebuilder\AstroData\bin\Debug\AstroData.pdb
+C:\Training\planets-databasebuilder\AstroData\bin\Debug\Dapper.dll
+C:\Training\planets-databasebuilder\AstroData\bin\Debug\FluentMigrator.dll
+C:\Training\planets-databasebuilder\AstroData\bin\Debug\Dapper.xml
+C:\Training\planets-databasebuilder\AstroData\bin\Debug\FluentMigrator.pdb
+C:\Training\planets-databasebuilder\AstroData\bin\Debug\FluentMigrator.xml
+C:\Training\planets-databasebuilder\AstroData\obj\Debug\AstroData.csprojResolveAssemblyReference.cache
+C:\Training\planets-databasebuilder\AstroData\obj\Debug\AstroData.dll
+C:\Training\planets-databasebuilder\AstroData\obj\Debug\AstroData.pdb

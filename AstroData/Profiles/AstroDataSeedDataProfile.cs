@@ -1,5 +1,6 @@
 ﻿using System;
 using AstroData.Data;
+using AstroData.Extensions;
 using AstroData.Tables;
 using FluentMigrator;
 
@@ -10,7 +11,7 @@ namespace AstroData.Profiles
     {
         public override void Up()
         {
-            if (AstroDataHelper.TableContainsData(ConnectionString, Constants.PlanetsTableName))
+            if (this.TableContainsData(Constants.PlanetsTableName))
             {
                 Console.WriteLine($"AstroDataSeedDataProfile already run for {Constants.PlanetsTableName}, skipping.");
                 return;
